@@ -5,11 +5,18 @@
     <variables></variables>
     <build-profile instance="hi">
         <variables>
+            <noindex-content>false</noindex-content>
             <algolia-id>YJL2PJLEIT</algolia-id>
             <algolia-index>prod_TIL</algolia-index>
             <algolia-api-key>da90d9e674c48d010abedc78ad47d5d6</algolia-api-key>
             <web-root>https://lenkim.github.io/TIL</web-root>
+            <primary-color>forest</primary-color>
         </variables>
+
     </build-profile>
+    <footer>
+        <copyright>Company 2000-2024</copyright>
+        <social type="blog" href="https://happy-coding-day.tistory.com"></social>
+    </footer>
 
 </buildprofiles>
