@@ -116,7 +116,7 @@ jobs:
 #          name: algolia-indexes
       - name: Unzip artifact
         run: |
-          echo ${{env.ALGOLIA_APP_NAME}} \
+          echo ${{secrets.ALGOLIA_APP_NAME}} \
 
 #        run: |
 #          unzip -O UTF-8 -qq ${{ env.ALGOLIA_ARTIFACT }} -d algolia-indexes
