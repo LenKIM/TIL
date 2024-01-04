@@ -5,7 +5,6 @@
     <variables></variables>
     <build-profile instance="hi">
         <variables>
-            <noindex-content>false</noindex-content>
             <algolia-id>YJL2PJLEIT</algolia-id>
             <algolia-index>prod_TIL</algolia-index>
             <algolia-api-key>da90d9e674c48d010abedc78ad47d5d6</algolia-api-key>
