@@ -79,7 +79,10 @@
 
 ### 운영체제의 자원 관리 기능
 
-![IMG_2204](https://raw.githubusercontent.com/LenKIM/images/master/2024-01-08/IMG_2204.JPG)
+<img src="https://raw.githubusercontent.com/LenKIM/images/master/2024-01-08/IMG_2204.JPG" 
+alt="IMG_2204"  
+width="200" 
+border-effect="rounded"/>
 
 **운영체제의 가장 핵심적인 기능은 자원을 효율적으로 관리하는 것**
 
