@@ -3,13 +3,17 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                 name="TIL"
-                 start-page="Default-topic.md">
+                 name="Today I Learned"
+                 start-page="Child-Empty-MD-Topic.md">
 
-    <toc-element topic="Starter.md">
-        <toc-element topic="Default-topic.md"/>
+    <toc-element topic="Overview.md">
+    </toc-element>
+    <toc-element topic="OS.md">
+        <toc-element topic="Ch1운영체제란?.md"/>
     </toc-element>
     <toc-element topic="Empty-MD-Topic.md">
-        <toc-element topic="Child-Empty-MD-Topic.md"/>
+        <toc-element topic="Child-Empty-MD-Topic.md">
+            <toc-element topic="Default-topic.md"/>
+        </toc-element>
     </toc-element>
 </instance-profile>
