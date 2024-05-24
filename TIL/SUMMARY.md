@@ -1,6 +1,7 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [intro](README.md)
+* [👋 Welcome!](<README (1).md>)
 
 ## About us
 
@@ -22,3 +23,7 @@
 ## Policies
 
 * [🌴 Requesting Time Off](policies/requesting-time-off.md)
+
+## JAVA
+
+* [Lock 테스트](java/lock.md)
